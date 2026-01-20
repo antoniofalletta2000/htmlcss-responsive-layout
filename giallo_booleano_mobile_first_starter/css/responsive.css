@@ -32,5 +32,31 @@
     .recipe-title{
         font-size:25px ;
     }
+    .recipe-card{
+        display: flex;
 
+        .recipe-video, .recipe-info{
+            flex-grow: 1;
+        }
+    }
+    .social-networks{
+        .btn{
+            display: flex;
+            gap: 10px;
+            padding: 10px 30px;
+            align-items: center;
+            
+            .label{
+                display: inline-block;
+            }
+        }
+    }
+    footer{
+        display: flex;
+        justify-content: space-between;
+        
+        adress{
+            
+        }
+    }
 }
