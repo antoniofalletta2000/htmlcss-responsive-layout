@@ -1,4 +1,21 @@
 /* Soluzione qui */
+body {
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    font-family: "Nerko One", cursive;
+}
+
+
+@media screen and (min-width: 576PX){
+    .clearfix>img {
+        float: left;
+        margin: 10px;
+    }
+    .btn{
+        padding: 10px 30px;
+    }
+}
 
 @media screen and (min-width: 768px) {
     #topbar {
@@ -69,3 +86,4 @@
         
     }
 }
+

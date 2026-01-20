@@ -32,8 +32,8 @@ Modalità Desktop(sopra i 992px)
 Bonus
 Modalità Large Mobile (576px)
 
-l'immagine nella descrizione della ricetta viene circondata dal testo anche su mobile ma solo se c'è spazio sufficiente, quindi a partire da 576px
-I bottoni social si allagano già su dispositivi mobile più grandetti (576px)
+-l'immagine nella descrizione della ricetta viene circondata dal testo anche su mobile ma solo se c'è spazio sufficiente, quindi a partire da 576px
+-I bottoni social si allagano già su dispositivi mobile più grandetti (576px)
 
 Info
 Il font utilizzato per il titolo è: 'Nerko One', cursive;
