@@ -26,6 +26,11 @@
         float: left;
         margin: 10px;
     }
+    .quick-notes>ul{
+        display: flex;
+        gap: 40px;
+        flex-wrap: wrap;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -51,12 +56,16 @@
             }
         }
     }
+        .quick-notes>ul {
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+
+    }
     footer{
         display: flex;
         justify-content: space-between;
         
-        adress{
-            
-        }
+        
     }
 }
