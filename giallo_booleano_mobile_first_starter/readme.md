@@ -23,7 +23,7 @@ Modalità Tablet (sopra i 768px)
 
 Modalità Desktop(sopra i 992px)
 
-La grandezza el titolo della ricetta aumenta ancora di più
+-La grandezza el titolo della ricetta aumenta ancora di più
 Le informazioni della ricetta tornano a disporsi una sotto l'altra
 Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro
 Compaiono i nomi delle piattaforme social
