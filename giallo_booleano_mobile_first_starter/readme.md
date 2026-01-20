@@ -12,9 +12,9 @@ Analizziamo bene il sito ed il markup, poi proviamo ad accontentare le richieste
 
 Modalità Tablet (sopra i 768px)
 
-Il logo nell'header si allinea a sinistra
-Il padding del contenuto principale della pagina aumenta
-Compare il testo "(Dolce Tradizionale)"
+-Il logo nell'header si allinea a sinistra
+-Il padding del contenuto principale della pagina aumenta
+-Compare il testo "(Dolce Tradizionale)"
 La grandezza del titolo diventa più grande
 Le informazioni della ricetta sotto il video si dispongono a griglia
 I bottoni social si allargano

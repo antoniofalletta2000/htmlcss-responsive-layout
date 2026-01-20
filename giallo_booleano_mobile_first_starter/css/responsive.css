@@ -4,4 +4,12 @@
     #topbar {
         justify-content: left;
     }
+
+    .container {
+        padding: 20px;
+    }
+
+    .recipe-name:after{
+        content: "(Dolce Tradizionale)";
+    }
 }
